@@ -1,0 +1,2 @@
+position	gene	altAllele
+3657010	fadE25	G

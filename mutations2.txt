@@ -1,0 +1,4 @@
+position	gene	altAllele
+4359135	espK	G
+2439519	Rv2177c	T
+1474778	rrl	G
