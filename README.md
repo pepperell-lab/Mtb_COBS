@@ -1,1 +1,2 @@
 # Mtb_COBS
+# Scripts to estimate frequency of mutations identified in Contingencies in biofilm adaptation of Mycobacterium tuberculosis (Youngblom et al. 2024) in a global dataset of M.tb genomes using a previously described method (Smith et al. 2022). Using a searchable compact bit-sliced signature (COBS) index of bacterial genomes curated from the European Nucleotide Archive (Blackwell et al. 2022). Using a Python interface to search COBS index (Bingmann el al. 2019).
